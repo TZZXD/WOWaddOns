@@ -1,0 +1,8 @@
+## Interface: 80300
+## Title: <TZZ>interrupt
+## Notes: 打断
+## Author: TZZ
+## Version: 1.0
+
+interrupt.lua
+whisper.lua
